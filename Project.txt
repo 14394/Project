@@ -1,1 +1,2 @@
+Project Name - RecipeBox
 Project Description - RecipeBox is a web application designed to help users organize and discover recipes. With RecipeBox, users can save their favorite recipes, create custom collections, and explore a vast database of recipes from various cuisines around the world. 
